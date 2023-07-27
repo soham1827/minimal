@@ -1,5 +1,16 @@
-title: Soham More
-description: Just a budding Data ethusiast, learning ML-DL concepts.
-show_downloads: false
-google_analytics:
+title: <p align="center"> Sajan Kedia </p>
+description:
+  <p align="center">
+  <!-- <a href="pdf/resume.pdf">Resume</a> | -->
+  <a href="https://www.linkedin.com/in/soham-more-636a1316b/">LinkedIn</a> |
+  <a href="https://github.com/soham1827">GitHub</a>
+  
+  <br>   
+  With more than 2 years of experience in Data Analytics and ETL.
+  I'm working on Data Science, Big Data, ETL Pipeline , Machine learning & NLP related problems.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
